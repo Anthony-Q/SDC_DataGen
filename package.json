@@ -1,0 +1,24 @@
+{
+  "name": "data-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dataCreator.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fast-lorem-ipsum": "^1.2.0",
+    "fs": "0.0.1-security",
+    "lorem-ipsum": "^1.0.6",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.2.18",
+    "mysql": "^2.16.0",
+    "node": "^10.11.0",
+    "performance-now": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
